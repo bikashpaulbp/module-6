@@ -10,3 +10,17 @@ th{
     border: 1px solid gray;
     padding: 0 10px;
 }
+
+.div1{
+    border: 2px solid gray;
+    width: 400px;
+    height: 200px;
+    overflow: hidden;
+}
+
+.div2{
+    border: 2px solid gray;
+    width: 400px;
+    height: 200px;
+    overflow: scroll;
+}
